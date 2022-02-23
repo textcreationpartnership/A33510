@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the bishops and their ministers or any of them to whom this shall come ; Something by way of query which they are desired to answer in plainness and according to the Scriptures of truth</title>
+            <author>Coale, Leonard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33510</idno>
+            <idno type="STC">Wing C4761</idno>
+            <idno type="STC">ESTC R29227</idno>
+            <idno type="EEBO-CITATION">10861934</idno>
+            <idno type="OCLC">ocm 10861934</idno>
+            <idno type="VID">46149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46149)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1419:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the bishops and their ministers or any of them to whom this shall come ; Something by way of query which they are desired to answer in plainness and according to the Scriptures of truth</title>
+                  <author>Coale, Leonard.</author>
+                  <author>Coale, Benjamin.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>To the bishops ... signed: Leonard Coale; Something by way of query signed: Benjamin Coale.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46149:1"/>
+            <pb facs="tcp:46149:1"/>
+            <p>TO THE BISHOPS AND THEIR MINISTERS, OR Any of them, to whom this ſhall Come: Something by way of QUERY, which they are deſired to Anſwer in Plain<g ref="char:EOLhyphen"/>neſs And according to the Scriptures of Truth.</p>
+            <q>
+               <p>He that entereth not by the Door into the Sheepfold, but climbeth up ſome other way, the ſame is a Thief and a Robber,</p>
+               <bibl>
+                  <hi>John</hi> 10.1.</bibl>
+            </q>
+            <q>
+               <p>Let no man deceive you with vain words<g ref="char:punc">▪</g> but prove what is acceptable unto the Lord: And have no fellowſhip with the unfruitful works of darkneſs, but rather reprove them,</p>
+               <bibl>
+                  <hi>Epheſ, 5,</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year, 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:46149:2"/>
+            <pb n="3" facs="tcp:46149:2"/>
+            <head>TO THE Biſhops and their Miniſters, OR Any of them, to whom this ſhall come, <hi>&amp;c.</hi>
+            </head>
+            <p>THIS is a Viſitation unto unto you all, that you may con<g ref="char:EOLhyphen"/>ſider what you are a doing, for the Lord God ſees all the actions of men, and all muſt come to judgement, and every man muſt receive according to his doings; and every one that is a Perſecutor, or envious, or a deſpiſer of them that deſire to live in the fear of God, who for Conſcience ſake to God, can<g ref="char:EOLhyphen"/>not conform to the Wills, Cuſtomes, and vain Traditions of men, I ſay unto you that are Perſecutors of ſuch, or do cauſe ſuch to be perſecuted, you muſt expect your reward from God, according to your doings; for God, in all Ages hath abhorred ſuch, and when they have done their Work, he hath rendered unto them their Wages, and brought on them Judgments, and Plagues, and none of them could eſcape his ſtroak, when he aroſe to plead the Cauſe of the Oppreſſed, and to render vengeance upon their Oppreſ<g ref="char:EOLhyphen"/>ſors: And the Lord is the ſame at this day, as in dayes of old, his eye beholds the evill and the good; and he is a rewarder of all according to their workes and their doings, for he doth hear the Cry of the Oppreſſed, and will not at all acquit the wicked, except they repent, and turn at his reproof, and meet him by true repen<g ref="char:EOLhyphen"/>tance, which is to put away the evill of their doings by fearing to do evill and learning to do well; and to ſtudy how to pleaſe God, and not to deviſe Miſchief againſt the Innocent, as many do at
+<pb n="4" facs="tcp:46149:3"/>this day and are pulling and haleing their Goods from them, and caſting them in Priſons and Holes, and Excomunicating them that were never of their Church which was never the practice of the true Chriſtian People or Miniſters; neither do we read that <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> or <hi>Titus</hi> were ever called <hi>Lord Biſhops,</hi> or had ſuch Typpits, and Hoods, and white Sleeves and Surplices, as the Biſhops and their Miniſters, have at this day, for the white linnen wherewith the ſaints were arrayed, was <hi>Righteouſneſs</hi> they were <hi>adorned with a meek and a quiet ſpirit,</hi> which was, and is, <hi>with the Lord of great price.</hi> Neither did they ſue men at the Law for Tythes, and caſt them in Priſons and Holes, as thoſe called Miniſters do at this day, who would force people, to give them maintenance and wages when they do no work for them, and to pay for their Bread and Wine, when they neither eat nor drink of it; and if they will not pay them their demands, they ſometimes take three or four times as much as they at firſt demanded; and ſometimes as much or more then a mans eſtate is worth by the year, <hi>Oh Abominable wickedneſs!</hi> Do thoſe that are found in theſe things think that the Lord takes no notice of it, or that his eye ſees not? Yes, yes, the Lord ſees all theſe cruelties and will not at all acquit the actors thereof in that day that he comes to plead with all fleſh. Therefore conſider what you are doing, you that are found in thoſe things; do not think to eſcape the hand of the Lord, for <hi>God is no reſpecter of perſons;</hi> but, as is ſaid, <hi>will render to every man according to his doings;</hi> and in that day, none can hide themſelves or ſave themſelves from his ſtroke, though they may <hi>call to the Hills to cover them,</hi> or <hi>to the Mountaines to hide them;</hi> yea, <hi>though they fly into the clefts of the Rocks<g ref="char:punc">▪</g> his hand will find them,</hi> for none can hide when he appeares in his Judgments.</p>
+            <p>Therefore all conſider while you have a day and a time, for how great ſoever you are, or how ever you may vaunt your ſelves over the Innocent People of God, who deſire to live in his fear, and to wait upon him, and to Worſhip him as he requires, I ſay, however you may vaunt over ſuch, and oppreſs, perſecute, and ſeek to ſup<g ref="char:EOLhyphen"/>preſs ſuch, yet your breath is in your noſtrills, and the Lord is the giver of it, and he may take it at his pleaſure, for he gave unto man Life and Breath, that man might live unto him, and fear to offend him, and made man to ſerve him, and to wait upon him, and to worſhip him in ſpirit and truth as he requires; and his ſpiritual
+<pb n="5" facs="tcp:46149:3"/>worſhip which Go<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worſhiped in, is and ever was, a <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to all Perſecuters and Deſpiſers, and to all that preach for hire, and Divine for mony for the Miniſters of the ſpirit and thoſe that ſpake, the word of the Lord, teſtified againſt ſuch that ſpake, and the Lord had not ſpoken unto them, and ſuch did not profit the People at all; and men by wiſdom which is earthly, and ſenſual, know not God, but if ever men come to know the Lord, to their comfort and ſalvation, they muſt learn of Chriſt the Light, and Life of men; who ſaid, <hi>I am meek and lowly in heart, and ye ſhall find reſt to your ſoules,</hi> and hath ſaid, <hi>He that will be my diſciple muſt deny himſelf, and take up his Croſs and follow me, who am the way to the Father.</hi> And hath ſaid, <hi>I am the Light of the world.</hi> Therefore have a care how ye reſiſt, mock, ſcoff, and deride this Light which lighteth every man; and ſhewes them there evill deeds and reproves in ſecret, and ſhewes them what they ſhould do, and what they ſhould not do; which teaches and ſhews that they ſhould do to others, as they would others ſhould do to them.</p>
+            <p>Now all you Biſhops and Miniſters, ſo called, conſider whether you are followers of Chriſt, as they were who bid People follow them as they follow Chriſt, or, on the contrary, are in the ſteps of thoſe that perſecuted Chriſt Members, and cryed <hi>peace, peace<g ref="char:punc">▪</g>
+               </hi> to people, <hi>while they put into their mouthes;</hi> but, if they put not into their mouthes, <hi>they prepared war againſt them;</hi> and ſuch the true Prophets and Miniſters <hi>who ſpake as the Spirit of the Lord gave them utterance</hi> and as he required, teſtified againſt. Now it is my deſire that you may truly weigh and conſider theſe things, and examine your own hearts in the coole, quiet, peaceable harmleſs Spirit which envyes not, and in the meek ſpirit. And every one of you that doth ſo, may find I am your Friend, and one that deſires men might repent, and come to the knowledge of the truth, and be ſaved; with out which all men are miſerable, whatever they profeſs, or poſeſs, in this world.</p>
+            <p>Now I have thus far, cleared my conſcience to you, in uprirght<g ref="char:EOLhyphen"/>neſs of heart, according to Truth, which God hath manifeſted in me, to ſhew and diſcover, that which is contrary to himſelf, and to lead into that which is right in his ſight, and to Worſhip him as he requires, and gives the knowlege of himſelf, and leads and brings to the peace, which paſſeth the underſtanding of men, and is more to be prized then all the world; I ſay in this Truth and Light
+<pb n="6" facs="tcp:46149:4"/>which God hath given, to reprove the world of their ſins and to lead and guid men unto himſelf and keep them in peace and Co<g ref="char:EOLhyphen"/>venant with him for ever, and gives to know the tongue of the learned and the Word, which was in the begining, from which, and in which, the words of Truth were ſpoken, which was before the falſe prophets, and hirelings were, and will be when they are all gone; I ſay in this Truth, which God is more and more mani<g ref="char:EOLhyphen"/>feſting in the hearts of his people, who in uprightneſs do wait upon him; I evermore deſire to reſt and abide.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>The</hi> 19th. <hi>of the</hi> 8th. <hi>Month,</hi> 1671.</date>
+               </dateline>
+               <signed>Leonard Coale.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>Something by way of QUERY TO THE BISHOPS and MINISTERS, of the Church of <hi>England,</hi> which they are de<g ref="char:EOLhyphen"/>ſired to Anſwer in Plainneſs, and according to the Scriptures of Truth.</head>
+            <p>FRiends, ſeeing you profeſs your ſelves to be Teachers and Inſtructers of others, and Paſtors, and Miniſters, and Gift<g ref="char:EOLhyphen"/>ed men; theſe things are propounded to you as follow<g ref="char:EOLhyphen"/>eth.</p>
+            <p>That ſeeing the Scripture ſaith, <hi>John</hi> 17.3. <hi>And this is Life Eternal, that they may know thee the only true God, and Jeſus Chriſt whom thou haſt ſent.</hi> Hence I Query.</p>
+            <pb n="7" facs="tcp:46149:4"/>
+            <list>
+               <label>Query I.</label>
+               <item>What is it that gives the true and ſaving knowledge of God, which is Life Eternal? Is it <hi>within</hi> man or <hi>without</hi> him?</item>
+               <label>Query II.</label>
+               <item>Is it poſſible to attain to ſuch a ſaving knowledge of the inviſible God, as to know and witneſs Life Eternal to the Soul that hath been in Death, I ſay is ſuch a knowledge of the Love of God that made Heaven and Earth, attained to now by any in this Life, that is under your Miniſtry, yea or nay?</item>
+               <label>Query III.</label>
+               <item>Is it ſufficient to read that there is a God, and that he ſent Jeſus Chriſt into the world; and to believe ſo from the Teſti<g ref="char:EOLhyphen"/>mony given of him without, and left upon Record, <hi>That he made the World and all things therein,</hi> &amp;c. May not a man have ſuch a knowledge as this, and yet not know Life Eternal to his ſoul, yea, or nay?</item>
+               <label>Query IV.</label>
+               <item>And ſeeing the holy Scripture ſaith, <hi>That all have ſinned, and come ſhort of the Glory of God,</hi> And that, <hi>Except a man be born again, he cannot enter into the kingdom of God.</hi> What is this New Birth? And how can a man that is <hi>dead in treſpaſſes and ſins</hi> be <hi>born again,</hi> and come to know Life Eternal?</item>
+               <label>Query V.</label>
+               <item>Is Chriſt the true Light <hi>that Lighteth every man into the world</hi> yea, or nay?</item>
+               <label>Query VI.</label>
+               <item>What was that <hi>Comforter which Chriſt promiſed to ſend to his Diſciples, which ſhould lead them into all Truth; which ſhould reprove the World of ſin, &amp;c.</hi> Is this Comforter come al<g ref="char:EOLhyphen"/>ready, or is he yet to come? Are any led into Truth but by the Comforter which Chriſt promiſed to ſend after his departure: yea or nay?</item>
+               <label>Query VII.</label>
+               <item>What is that which ſhews men their ſin, and reproves in ſecret for evil, when no man ſeeth it?</item>
+               <label>Query VIII.</label>
+               <item>And is that which ſhews men thus their ſinful ſtate and reproves for evil, ſufficient (in it ſelf) to lead out of ſin and out of evil, into holineſs and purity (if they obey and follow its guidance) yea or nay?</item>
+               <pb n="8" facs="tcp:46149:5"/>
+               <label>Query IX.</label>
+               <item>Can any man in this Life, on this ſide the Grave, attain to ſuch a ſtate, as to be made free from ſin, and know and witneſs, preſerva<g ref="char:EOLhyphen"/>tion out of Tranſgreſſion, by the heavenly Power and Spirit of God, unto his heavenly kingdom, into which, <hi>no unclean thing can enter,</hi> yea or nay?</item>
+               <label>Query X.</label>
+               <item>What is the Firſt Principle of pure Religion?</item>
+               <label>Query XI.</label>
+               <item>What is the Goſpel, and what was the end for which it was preached? Are any true Preachers of the Goſpel but ſuch as the Lord God ſends forth and Ordaines?</item>
+               <label>Query XII.</label>
+               <item>Whether or no, the Miniſters which were ſent forth by Chriſt Jeſus in the Goſpel diſpenſation, did ever take Tythes? and if people would not give it, to ſue them at Law for Tythes, and take it by force (yea ſometimes ten times as much as the ſingle value of Tythes demanded) and go to a Pariſh and make a bargain for ſo much a year, or demand ſo much, and if the People think it too much, and will not give it, go to another place, where they can have moſt Tythes, Eaſter-reckoning, and Midſomer-Dues, <hi>&amp;c.</hi> by the year? I ſay Did the Miniſters of Chriſt after this manner? Or rather,</item>
+               <label>Query XIII.</label>
+               <item>Did not the Miniſters of Chriſt preach freely, even according as Chriſt commanded them, who ſaid, <hi>Freely ye have recevied, freely give?</hi>
+               </item>
+               <label>Query XIIII.</label>
+               <item>What, and where is the Church, which Chriſt himſelf is the <hi>Head of, Elect and Precious?</hi> And hath he ſuch a Church viſible upon Earth, yea or nay?</item>
+               <label>Query XV.</label>
+               <item>Can a man be a true living Member of the true Church, unleſs he
+<pb n="9" facs="tcp:46149:5"/>be redeemed by the pretious blood of Jeſus Chriſt from ſin and un<g ref="char:EOLhyphen"/>righteouſneſs, yea or nay?</item>
+               <label>Query XVI</label>
+               <item>Will you, or any of you affirm and prove by the Holy Scrip<g ref="char:EOLhyphen"/>tures, that your Church, and way of Worſhip and Practice is agree<g ref="char:EOLhyphen"/>able with, and according to the practice and example of the Pri<g ref="char:EOLhyphen"/>mitive Church in the Apoſtles dayes?</item>
+               <label>Query XVII</label>
+               <item>What is it to be a Member of your Church? May a man thereby obtain Eternal Life and Salvation to his Immortal Soul<g ref="char:punc">▪</g> and have an aſſurance of the Love and Favour of God, and of an Inheritance that fadeth not away, when this World ſhall be no more, Or ra<g ref="char:EOLhyphen"/>ther, are not you ſuch as ſay, <hi>Its impoſſible to live without ſinning; you cannot be perfect in this Life, but carry about a body of ſin while you are here, and have no aſſurance, but are dead in treſpaſſes and ſins, have erred and ſtrayd from the wayes of God, and are miſerable ſin<g ref="char:EOLhyphen"/>ners,</hi> as you ſay your ſelves in the <hi>Common Prayer,</hi> (Oh that you did but ſay it in a true ſence of your condition, and knew a true re<g ref="char:EOLhyphen"/>pentance, which is a real change of the heart and mind, and for<g ref="char:EOLhyphen"/>ſaking of Sin, as it is written; <hi>Put away the evil of your doings, ſaith the Lord, and I will receive you<g ref="char:punc">▪</g> Waſh you, make you clean, and then come and let us reaſon together,</hi> &amp;c. then would you joyn with us.) But alas are not many Members of your Church, and yet live in uncleanneſs, drunkenneſs, whoredom, <hi>&amp;c.</hi> who are not Excom<g ref="char:EOLhyphen"/>municated. But if any come to be turned from an evil Converſa<g ref="char:EOLhyphen"/>tion, to walk in righteouſneſs and holineſs, and to learn the fear of the Lord, which is to depart from evil; then preſently ſuch a man or woman, you ſay, is deceived or deluded; and by depart<g ref="char:EOLhyphen"/>ing from evil become a prey to the ungodly, and is hated, reviled, mocked and excommunicated out of your Church, (when it may be they were never of it) and inpriſoned, (and as it were buryed alive) becauſe they do not come to your Worſhip and conform to you in thoſe things which they are truly perſwaded againſt (and that by the Spirit of God) And then again, if any ſuch that hath thus for a time been ſeparated from you, and walked in Right<g ref="char:EOLhyphen"/>eouſneſs and Truth, and it may be ſuffered much by you for the
+<pb n="10" facs="tcp:46149:6"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me, I ſay<g ref="char:punc">▪</g> if ſuch a one <hi>turn again (like the Dog to the vomit, and as the Sow that was waſhed to walow in the mire)</hi> from the grace of God into unrighteouſneſs and filthyneſs and do that which is evil: then ſuch thereby become again fit Members of your Church, and are receved i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> amongſt you as good converts again, and do enjoy their Liberty as before; all which makes many moderate People greatly to queſtion and ſuſpect, that your Church and way of Worſhip; is not the true Church Worſhip; and there<g ref="char:EOLhyphen"/>fore do abſent from it?</item>
+               <label>Query XVIII.</label>
+               <item>And can you blame any for abſenting from you? Or is it rea<g ref="char:EOLhyphen"/>ſonable for you to force and compel People to be of your Church, who confeſs <hi>you are miſerable ſiners, that have erred and ſtrayed, from the wayes of God?</hi> (as indeed we believe you are) Do you think that outward force is the way to bring People (that are ſinceare) to be of your Church, which daily err and ſtray from the way of God? Or rather,</item>
+               <label>Query XIX.</label>
+               <item>Would it not be more Chriſtian like, for you to let others alone in matters appertaining to God, his Worſhip, and Religion, ſo long as they walk innocently towards all men? And muſt all render an account to God of all their deeds, and receive a juſt reward ac<g ref="char:EOLhyphen"/>cording to their doings; for he is no reſpecter of perſons. I ſay, were it not better for you, who ſay, You are <hi>Gifted men,</hi> or <hi>Spirit<g ref="char:EOLhyphen"/>tual men,</hi> to uſe only the Spiritual Weapon (if you had it?) to convince gain-ſayers with all; and by your lives, and good conver<g ref="char:EOLhyphen"/>ſations to Preach for<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h to all, That you are indeed the Embaſſadors of our Saviour Jeſus Chriſt, <hi>who walk not after the fleſh, but after the Spirit?</hi>
+               </item>
+               <label>Query XX.</label>
+               <item>What are the fruits and markes of a true Chriſtian?</item>
+               <label>Query XXI.</label>
+               <item>And what are the fruits, and markes of a falſe Prophet, by
+<pb n="11" facs="tcp:46149:6"/>which People may know and diſtinguiſh them from <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <label>Query XXII.</label>
+               <item>Why did <hi>Cain</hi> Kill his Brother <hi>A<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>?</hi> Did he well in ſo doing yea or nay?</item>
+               <label>Query XXIII.</label>
+               <item>Is Perſecution of Chriſt, or of Antichriſt? Who was the firſt Perſecutor about Worſhip?</item>
+               <label>Query XXIIII.</label>
+               <item>What will be the portion of thoſe that cauſe the blind to w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>der out of the right way and are not you ſuch, yea or nay?</item>
+            </list>
+            <p>Anſwer theſe things in meekneſs and moderation according to Scripture. That if you are really and truly of thoſe that ſeek the Exaltation of Truth and Holyneſs it may be manifeſt: but if you ſeek not this, but your ſelves, and are ſuch as God never ſent: then know aſſuredly that the Lord God of Heaven, who beholds your actions, and from whom you cannot hide your ſelves, will diſ<g ref="char:EOLhyphen"/>cover you more and more, and your nakedneſs and ſhame ſhall yet more and more appear in the ſight of Nations; and he will give you the Cup of his dreadful Vengeance and Indignation to Drink, as a juſt reward of your doings if you repent not.</p>
+            <p>This is from one that from a Child hath deſired and truly longed after the ſaving knowledge of God, and his way in which I might find Life and Peace to my Soul, being now in Bonds with many more for Obeying and Keeping the Commands of Chriſt Jeſus</p>
+            <closer>
+               <signed>Benjamin Coale,</signed>
+               <dateline>
+                  <hi>Reading Goale</hi> 
+                  <date>
+                     <hi>the</hi> 8th. <hi>Month,</hi> 1671.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
